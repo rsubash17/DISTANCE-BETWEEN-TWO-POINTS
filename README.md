@@ -27,7 +27,4 @@ print(round(distance,2))
 it is to get the distance between two points.7
 
 
-### OUTPUT:
 
-
-### RESULT:
